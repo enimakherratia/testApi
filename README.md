@@ -12,8 +12,8 @@ API Endpoints
 
 Clone the repo.
 
-```bash
-https://github.com/zagaris/express-api.git
+
+https://github.com/enimakherratia/testApi.git
 cd TEST
 ```
 npm install
