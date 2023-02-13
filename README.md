@@ -11,10 +11,8 @@ API Endpoints
 ## Quick Start
 
 Clone the repo.
-
-
 https://github.com/enimakherratia/testApi.git
-cd TEST
+
 ```
 npm install
 ```
