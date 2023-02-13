@@ -13,14 +13,20 @@ API Endpoints
 Clone the repo.
 https://github.com/enimakherratia/testApi.git
 
+
+Install Package
+
 ```
 npm install
 
-node app.js
 ```
 To start the express server, run the following.
 
-Call for test : 
+```
+node app.js
+```
+
+To test : 
 http://localhost:3000/getUserMalePercentage/16
 
 
