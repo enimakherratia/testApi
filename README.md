@@ -15,6 +15,8 @@ https://github.com/enimakherratia/testApi.git
 
 ```
 npm install
+
+node app.js
 ```
 To start the express server, run the following.
 
