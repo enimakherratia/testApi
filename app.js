@@ -10,7 +10,6 @@ app.listen(3000, () => {
 app.get('/getUserMalePercentage/:number', async (req, res) => {
     try {
       const { number } = req.params
-      console.log(number)
       const apiResponse = await fetch(
         'https://gorest.co.in/public/v2/users'
       )
